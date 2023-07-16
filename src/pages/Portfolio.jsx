@@ -300,8 +300,8 @@ const Portfolio = () => {
                 <div className="my-3">
                     <h4><strong> Software Developer, TEXTNIGERIA </strong></h4>
                     <p>
-                      Collaborate with my team to building reminder portal application, subscription portal application, be involved and participate in the overall application lifecycle Collaborate with backend 
-                      Developers, define and communicate technical and design requirements, build high-quality reusable code that can be used in the future, collaborate with multidisciplinary team of designers, developers and system administrators
+                      Collaborate with my team to build reminder portal application, subscription portal application, be involved and participate in the overall application lifecycle. Collaborate with backend 
+                      Developers, define and communicate technical and functional requirements, build high-quality reusable code that can be used in the future.
                     </p>
                     <p>March 2016 – June 2017 </p>
                 </div>

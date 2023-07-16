@@ -7,7 +7,7 @@ git add .
 git commit -m "deploy web"
 git remote add origin https://github.com/Onayemi/portfolio.git
 git branch -M main|master
-git push -u origin main|master
+git push -u origin master
 
 export default defineConfig({
   base: '/portfolio',
@@ -19,11 +19,6 @@ npm run build
 git add dist -f
 git commit -m "add dist"
 git subtree push --prefix dist origin gh-pages
-
-## Delete  all branch except main
-git checkout master
-git push origin --delete
-git branch | grep -v "main" | xargs git branch -D
 
 git branch -a
 
