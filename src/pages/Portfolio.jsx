@@ -27,7 +27,7 @@ const Portfolio = () => {
                         </h2>
                         <p className="lead my-4">
                           I am a fullstack developer located in Lagos, Nigeria.
-                          with a demonstrated history in Software Development. Skilled in React.Js, Vue.Js, HTML/CSS & JavaScript, C#.Net, Mysql, MongoDB, MSSQL Server, PHP (Laravel), Node.Js, Styled Components  and Wordpress.
+                          with a demonstrated history in Software Development. Skilled in HTML, CSS, JavaScript, React, Next.Js, Node.js, PHP, Laravel,Java, C#.Net, React Native, Expo,  databases like MySQL or MongoDB, PostgresSQL, MsSQL Server  and Wordpress.
                         </p>
                         <a href="#contact" className="btn btn-primary btn-lg">Contact Me</a>
                     </div>
